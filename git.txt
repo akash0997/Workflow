@@ -3,6 +3,9 @@ git clone
 git revert
 git pull
 git push
+git diff
+git status
+git init
 git commit
 git config
 git checkout
