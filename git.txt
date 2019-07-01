@@ -1,13 +1,13 @@
 git add
 git clone
-git revert
+git status
 git pull
 git push
 git diff
-git status
+git rebase
 git init
 git commit
-git config
+git reset
 git checkout
 git branch
 
