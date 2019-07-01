@@ -3,8 +3,8 @@ git add
 git diff
 git status
 git init
-git checkout
-git config
 git commit
+git config
+git checkout
 git branch
 
